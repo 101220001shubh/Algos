@@ -1,3 +1,4 @@
+#define lld long long int 
 vector< vector < long long int > > v(10000);
 vector<bool> visited(10000,false);
 vector<long long int> w(10000);
